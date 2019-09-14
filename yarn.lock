@@ -4801,10 +4801,10 @@ eslint-visitor-keys@^1.0.0, eslint-visitor-keys@^1.1.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-1.1.0.tgz#e2a82cea84ff246ad6fb57f9bde5b46621459ec2"
   integrity sha512-8y9YjtM1JBJU/A9Kc+SbaOV4y29sSWckBwMHa+FGtVj5gN/sbnKDf6xJUl+8g7FAij9LVaP8C24DUiH/f/2Z9A==
 
-eslint@^6.3.0:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-6.3.0.tgz#1f1a902f67bfd4c354e7288b81e40654d927eb6a"
-  integrity sha512-ZvZTKaqDue+N8Y9g0kp6UPZtS4FSY3qARxBs7p4f0H0iof381XHduqVerFWtK8DPtKmemqbqCFENWSQgPR/Gow==
+eslint@^6.4.0:
+  version "6.4.0"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-6.4.0.tgz#5aa9227c3fbe921982b2eda94ba0d7fae858611a"
+  integrity sha512-WTVEzK3lSFoXUovDHEbkJqCVPEPwbhCq4trDktNI6ygs7aO41d4cDT0JFAT5MivzZeVLWlg7vHL+bgrQv/t3vA==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     ajv "^6.10.0"
@@ -6806,10 +6806,10 @@ jest@^24.9.0:
     import-local "^2.0.0"
     jest-cli "^24.9.0"
 
-jimp-compact@^0.8.0:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/jimp-compact/-/jimp-compact-0.8.0.tgz#2a7831b9d0e3202678a0617dd9fd9a3ed5423886"
-  integrity sha512-X20NDmsndoplmKtws5fcZYPnRzdtP1vftKlZaiKmKQ3+LMSXLPGoOCPZlckVZg4DjZlPzDOjA+nj//TPFGxMQw==
+jimp-compact@^0.8.2:
+  version "0.8.2"
+  resolved "https://registry.yarnpkg.com/jimp-compact/-/jimp-compact-0.8.2.tgz#fb2fd742a1770d7e5982ac3ccc098ebe5375f76d"
+  integrity sha512-IWvC9NzbXxXqc38NNh0mHkVKwdlnjRxgKuLrrm3LleSZowGHIpuIQurV5Td/ECX6tXX8pg9ImTtlWB63X+qD8A==
 
 js-levenshtein@^1.1.3:
   version "1.1.6"
